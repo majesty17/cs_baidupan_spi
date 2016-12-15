@@ -1,0 +1,7 @@
+E:\代码\vs2008\Projects\网盘spi\网盘spi\bin\Debug\网盘spi.exe
+E:\代码\vs2008\Projects\网盘spi\网盘spi\bin\Debug\网盘spi.pdb
+E:\代码\vs2008\Projects\网盘spi\网盘spi\obj\Debug\ResolveAssemblyReference.cache
+E:\代码\vs2008\Projects\网盘spi\网盘spi\obj\Debug\网盘spi.Properties.Resources.resources
+E:\代码\vs2008\Projects\网盘spi\网盘spi\obj\Debug\网盘spi.csproj.GenerateResource.Cache
+E:\代码\vs2008\Projects\网盘spi\网盘spi\obj\Debug\网盘spi.exe
+E:\代码\vs2008\Projects\网盘spi\网盘spi\obj\Debug\网盘spi.pdb

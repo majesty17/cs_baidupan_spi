@@ -1,0 +1,9 @@
+E:\代码\vs2008\Projects\网盘spi\网盘spi\bin\Release\网盘spi.exe
+E:\代码\vs2008\Projects\网盘spi\网盘spi\bin\Release\网盘spi.pdb
+E:\代码\vs2008\Projects\网盘spi\网盘spi\bin\Release\Newtonsoft.Json.dll
+E:\代码\vs2008\Projects\网盘spi\网盘spi\obj\Release\ResolveAssemblyReference.cache
+E:\代码\vs2008\Projects\网盘spi\网盘spi\obj\Release\网盘spi.Main.resources
+E:\代码\vs2008\Projects\网盘spi\网盘spi\obj\Release\网盘spi.Properties.Resources.resources
+E:\代码\vs2008\Projects\网盘spi\网盘spi\obj\Release\网盘spi.csproj.GenerateResource.Cache
+E:\代码\vs2008\Projects\网盘spi\网盘spi\obj\Release\网盘spi.exe
+E:\代码\vs2008\Projects\网盘spi\网盘spi\obj\Release\网盘spi.pdb
